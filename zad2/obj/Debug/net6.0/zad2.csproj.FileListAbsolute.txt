@@ -1,0 +1,15 @@
+C:\Курс по С#\DZ\homework01\zad2\bin\Debug\net6.0\zad2.exe
+C:\Курс по С#\DZ\homework01\zad2\bin\Debug\net6.0\zad2.deps.json
+C:\Курс по С#\DZ\homework01\zad2\bin\Debug\net6.0\zad2.runtimeconfig.json
+C:\Курс по С#\DZ\homework01\zad2\bin\Debug\net6.0\zad2.dll
+C:\Курс по С#\DZ\homework01\zad2\bin\Debug\net6.0\zad2.pdb
+C:\Курс по С#\DZ\homework01\zad2\obj\Debug\net6.0\zad2.csproj.AssemblyReference.cache
+C:\Курс по С#\DZ\homework01\zad2\obj\Debug\net6.0\zad2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Курс по С#\DZ\homework01\zad2\obj\Debug\net6.0\zad2.AssemblyInfoInputs.cache
+C:\Курс по С#\DZ\homework01\zad2\obj\Debug\net6.0\zad2.AssemblyInfo.cs
+C:\Курс по С#\DZ\homework01\zad2\obj\Debug\net6.0\zad2.csproj.CoreCompileInputs.cache
+C:\Курс по С#\DZ\homework01\zad2\obj\Debug\net6.0\zad2.dll
+C:\Курс по С#\DZ\homework01\zad2\obj\Debug\net6.0\refint\zad2.dll
+C:\Курс по С#\DZ\homework01\zad2\obj\Debug\net6.0\zad2.pdb
+C:\Курс по С#\DZ\homework01\zad2\obj\Debug\net6.0\zad2.genruntimeconfig.cache
+C:\Курс по С#\DZ\homework01\zad2\obj\Debug\net6.0\ref\zad2.dll
